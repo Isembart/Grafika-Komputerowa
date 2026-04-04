@@ -1,0 +1,1 @@
+jupyter nbconvert lab4.ipynb --to html --TemplateExporter.exclude_input_prompt=True --TemplateExporter.exclude_output_prompt=True
